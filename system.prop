@@ -1,0 +1,6 @@
+#
+# system.prop for 4034
+#
+# ro.ctr.crypto.passwd="default_password"
+ro.ctr.forbid_format=/frp,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
+ro.ctr.forbid_mount=/frp,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
