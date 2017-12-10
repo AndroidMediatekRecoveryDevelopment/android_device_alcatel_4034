@@ -1,8 +1,0 @@
-#
-# system.prop for 4034
-#
-
-
-ro.ctr.forbid_format=/frp,/persistent,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
-ro.ctr.forbid_mount=/frp,/persistent,/lk,/uboot,/logo,/metadata,/nvdata,/nvram,/secro
-ro.ctr.touch_accuracy=7
