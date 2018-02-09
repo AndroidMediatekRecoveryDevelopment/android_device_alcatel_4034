@@ -57,7 +57,7 @@ BOARD_EGL_CFG := $(LOCAL_PATH)/egl.cfg
 # RECOVERY
 BOARD_HAS_NO_SELECT_BUTTON := true
 
-RECOVERY_VARIANT := twrp
+RECOVERY_VARIANT := carliv
 
 ifneq ($(RECOVERY_VARIANT),twrp)
 TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/recovery/etc/recovery.fstab
